@@ -1,0 +1,14 @@
+/Users/andrejnikonov/RiderProjects/TestSolution/TestProject/bin/Debug/net9.0/TestProject
+/Users/andrejnikonov/RiderProjects/TestSolution/TestProject/bin/Debug/net9.0/TestProject.deps.json
+/Users/andrejnikonov/RiderProjects/TestSolution/TestProject/bin/Debug/net9.0/TestProject.runtimeconfig.json
+/Users/andrejnikonov/RiderProjects/TestSolution/TestProject/bin/Debug/net9.0/TestProject.dll
+/Users/andrejnikonov/RiderProjects/TestSolution/TestProject/bin/Debug/net9.0/TestProject.pdb
+/Users/andrejnikonov/RiderProjects/TestSolution/TestProject/obj/Debug/net9.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrejnikonov/RiderProjects/TestSolution/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfoInputs.cache
+/Users/andrejnikonov/RiderProjects/TestSolution/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfo.cs
+/Users/andrejnikonov/RiderProjects/TestSolution/TestProject/obj/Debug/net9.0/TestProject.csproj.CoreCompileInputs.cache
+/Users/andrejnikonov/RiderProjects/TestSolution/TestProject/obj/Debug/net9.0/TestProject.dll
+/Users/andrejnikonov/RiderProjects/TestSolution/TestProject/obj/Debug/net9.0/refint/TestProject.dll
+/Users/andrejnikonov/RiderProjects/TestSolution/TestProject/obj/Debug/net9.0/TestProject.pdb
+/Users/andrejnikonov/RiderProjects/TestSolution/TestProject/obj/Debug/net9.0/TestProject.genruntimeconfig.cache
+/Users/andrejnikonov/RiderProjects/TestSolution/TestProject/obj/Debug/net9.0/ref/TestProject.dll
